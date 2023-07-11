@@ -1,4 +1,4 @@
-<a href="https://notioly.com/"><img align="right" style="margin-left: 30pt;" width="40%" src="img/spying.png"></img></a>
+<a href="https://notioly.com/"><img align="right" style="margin-left: 30pt;" width="40%" src="./img/spying.png"></img></a>
 
 # Martin Grignard
 
@@ -21,7 +21,7 @@ I spend most of my free-time learning new things, reading tech stuff and drinkin
 
 ## Tools
 
-<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="img/tools.png"></img></a>
+<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="./img/tools.png"></img></a>
 
 Here are some of the tools I use and love. I do not master of all of them, but I know how to hack my way through a project in which they are used.
 
@@ -45,7 +45,7 @@ Game engine | ![Godot](https://img.shields.io/badge/Godot-white?logo=godotengine
 
 ## Job experience
 
-<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="img/break.png"></img></a>
+<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="./img/break.png"></img></a>
 
 As a curious folk, I enjoy doing research, learning and sharing what I have learned. This is why I decided to spend some time teaching after my PhD. thesis.
 
@@ -62,7 +62,7 @@ Aug. 2017 | Oct. 2017 | [Eelix](https://eelix.eu/), Herstal, Belgium | \[Student
 
 ## Education
 
-<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="img/learning.png"></img></a>
+<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="./img/learning.png"></img></a>
 
 I first graduated in industrial engineering with a reinforcement in electronics from [HELMo Gramme](https://www.helmo.be/Institution/Instituts/HELMo-Gramme/Accueil.aspx). 
 Righ after that, I decided to do a PhD.
@@ -79,7 +79,7 @@ Sept. 2006 | June 2012 | [Athénée Royal of Huy](https://www.arhuy.be/), Huy, B
 
 ## Want to support my work?
 
-<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="img/coffee.png"></img></a>
+<a href="https://notioly.com/"><img align="left" style="margin-right: 30pt;" width="20%" src="./img/coffee.png"></img></a>
 
 Do I like coffee? I *looove* coffee! 
 If you want to support me, you can always buy me one on [Ko-fi](https://ko-fi.com/martingrignard):

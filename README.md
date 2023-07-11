@@ -38,7 +38,7 @@ Game engine | ![Godot](https://img.shields.io/badge/Godot-white?logo=godotengine
 
 <small>
 * <em>I use this technology almost every day.</em></br>
-** <em>I do not master this technology or did not use it in a long time.<em>
+** <em>I do not master this technology or did not use it in a long time.</em>
 </small>
 
 <!-- Job experience -->

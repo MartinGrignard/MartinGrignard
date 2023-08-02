@@ -51,6 +51,7 @@ As a curious folk, I enjoy doing research, learning and sharing what I have lear
 
 From | To | Company | Role
 -----|----|---------|-------
+Aug. 2023 | Today | [GIGA Bioinformatics](https://www.gigabioinformatics.uliege.be/cms/c_8464757/en/gigabioinformatics), Liège, Belgium | Research data manager
 Dec. 2020 | July 2023 | [HELMo Gramme](https://www.helmo.be/Institution/Instituts/HELMo-Gramme/Accueil.aspx), Liège, Belgium | Assistant professor
 Oct. 2018 | Sept. 2022 | [GIGA CRC In-Vivo Imaging](https://www.gigacrc.uliege.be/cms/c_4212477/en/gigacrc), Liège, Belgium | PhD. student
 Mar. 2018 | Aug. 2018 | [VentureLab](https://www.venturelab.be/), Liège, Belgium | Young Entrepreneur

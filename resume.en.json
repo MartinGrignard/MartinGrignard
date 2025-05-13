@@ -1,0 +1,321 @@
+{
+  "basics": {
+    "name": "Martin Grignard",
+    "label": "Engineer",
+    "image": "",
+    "email": "mar.grignard@gmail.com",
+    "phone": "(+32) 479 480 133",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "Route de Limet 22",
+      "postalCode": "4577",
+      "city": "Modave",
+      "countryCode": "BE",
+      "region": "Liège"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "martingrignard",
+        "url": "https://www.linkedin.com/in/martingrignard"
+      },
+      {
+        "network": "Github",
+        "username": "MartinGrignard",
+        "url": "https://github.com/MartinGrignard"
+      },
+      {
+        "network": "GitLab",
+        "username": "mar-grignard",
+        "url": "https://gitlab.com/mar-grignard"
+      },
+      {
+        "network": "ORCiD",
+        "username": "Martin Grignard",
+        "url": "https://orcid.org/0000-0001-5549-1861"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Martin-Grignard",
+        "url": "https://www.researchgate.net/profile/Martin-Grignard"
+      }
+    ],
+    "education": [
+      {
+        "institution": "HELMo Gramme",
+        "url": "https://www.helmo.be/campus/helmo-campus-de-lourthe/institut-gramme",
+        "area": "Industrial Engineering (Electronics)",
+        "studyType": "Master",
+        "startDate": "2013-09-01",
+        "endDate": "2018-06-30",
+        "courses": []
+      },
+      {
+        "institution": "University of Liège",
+        "url": "https://www.uliege.be/cms/c_8750816/en/uliege",
+        "area": "Applied Sciences",
+        "studyType": "Ph.D.",
+        "startDate": "2018-10-01",
+        "endDate": "2022-09-30",
+        "courses": []
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Python (Advanced)",
+        "date": "2020-09-12",
+        "issuer": "HackerRank",
+        "url": "https://www.hackerrank.com/certificates/924fe2b8ff55"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Best project",
+        "date": "2017-12-01",
+        "awarder": "WSL StarTech",
+        "summary": "The WSL StarTech contest is an opportunity for engineering students to become student-entrepreneur and develop a project. A jury constituted of entrepreneurs and business angels evaluates the potential impact of the presented projects and the winners are granted with a free support plan at the VentureLab. I presented a project of urban farms called Agrobox that was awarded first place."
+      }
+    ],
+    "publications": [
+      {
+        "name": "Shamo: A tool for electromagnetic modeling, simulation and sensitivity analysis of the head",
+        "publisher": "Springer",
+        "releaseDate": "2022-03-10",
+        "url": "https://doi.org/10.1007/s12021-022-09574-7",
+        "summary": "Accurate electromagnetic modeling of the head of a subject is of main interest in the fields of source reconstruction and brain stimulation. Those processes rely heavily on the quality of the model and, even though the geometry of the tissues can be extracted from magnetic resonance images (MRI) or computed tomography (CT), their physical properties such as the electrical conductivity are difficult to measure with non intrusive techniques. In this paper, we propose a tool to assess the uncertainty in the model parameters, the tissue conductivity, as well as compute a parametric forward models for electroencephalography (EEG) and transcranial direct current stimulation (tDCS) current distribution."
+      },
+      {
+        "name": "Studying experimental variability in EEG and tDCS through uncertainty and sensitivity analyses",
+        "publisher": "ULiège",
+        "releaseDate": "2022-07-14",
+        "url": "https://hdl.handle.net/2268/293254",
+        "summary": "In neuroscience, simulating electric current in the head of a subject is of main interest for both electroencephalography (EEG) and transcranial direct current stimulation (tDCS). EEG is used to reconstruct the electric activity of the brain based on the measured electric potential on the scalp. On the other hand, tDCS consists in injecting a small electric current through the head of a subject to modulate the activity of a specific brain region. Such simulations rely heavily on the electric conductivity of the biological tissues composing the head. Unfortunately, there is currently no effective and non-invasive method to measure it accurately for each individual. Consequently, researchers and practitioners have to set arbitrary values chosen from the literature, despite the fact that this property has been shown to vary widely both inter- and intra-subject. The simulations also depend on the geometry of the tissues and on how they are modelled. In this thesis, we studied the influence of different skull models and of the electrical conductivity of the tissues on the EEG forward problem. We also analysed the effect of the uncertainty in the conductivity on the electric field induced in different regions of the brain by several stimulating electrode montages in tDCS. To support these experiments, we developed a python package named Shamo which provides the user with tools to perform mesh generation, current simulation, surrogate modelling and sensitivity and uncertainty analyses with a user-friendly API. It interfaces with industrial grade software to perform the computationally intensive tasks and is easy to use on distributed architectures. The present work describes both Shamo and the results that it helped to obtain for the different experiments."
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Ocarina",
+        "position": "Youth leader",
+        "url": "https://ocarina.be/",
+        "startDate": "2010-12-01",
+        "endDate": "2018-06-30",
+        "summary": "Ocarina is a youth movement in which all leaders are certified. Throughout the years, I have taken part and organized dozens of holiday camps and activities for children and teenagers. I also took the lead of a unit as the youngest unit leader in the history of the movement.",
+        "highlights": [
+          "Youngest unit leader in the history of the movement.",
+          "Participate in more than 30 holiday camps."
+        ]
+      }
+    ],
+    "work": [
+      {
+        "name": "SNCB",
+        "position": "Methods engineer (Intern)",
+        "url": "https://www.belgiantrain.be/en",
+        "startDate": "2015-11-01",
+        "endDate": "2015-12-31",
+        "summary": "As a methods engineer intern, I took part in a variety of activities, including designing mechanical parts, setting up a test bench and developing assembly instructions for mechanical components.",
+        "highlights": [
+          "Design and manufacturing of a test bench for a high speed train wagon decoupling mechanism.",
+          "Document the disassembly and reassembly process of a hydraulic pump.",
+          "Design a custom mechanical parts with Solidworks to repair a boring machine."
+        ]
+      },
+      {
+        "name": "EELIX",
+        "position": "Mechanical designer (Student)",
+        "url": "https://eelix.eu/en/",
+        "startDate": "2017-08-01",
+        "endDate": "2017-10-31",
+        "summary": "My role was to design high resistance PP and HDPE tanks based on the requirements of the clients and on the technical limitations.",
+        "highlights": [
+          "Translate client needs into technical requirements.",
+          "Design custome mechanical parts with Solidworks.",
+          "Document assembly process and validate the feasability with the foremen."
+        ]
+      },
+      {
+        "name": "Sirris",
+        "position": "R&D engineer (Intern)",
+        "url": "https://www.sirris.be/en",
+        "startDate": "2018-02-01",
+        "endDate": "2018-05-31",
+        "summary": "During this intership, I worked on a non-destructive testing system using infrared thermography. I built a test bench and designed a series of parts. Then, I ran a set of experiments to create a training datasets that I used to train an automated defect detection algorithm using Python. I then released a desktop application built with Qt to simplify the use of the algorithm for people using it in the field.",
+        "highlights": [
+          "Design a custom test bench for infrared thermography.",
+          "Create an extensive training dataset including varied materials, defect shapes and depth.",
+          "Benchmark various Python machine learning algorithms for automated defect detection and characterisation.",
+          "Develop a Qt desktop application to provide a user-friendly interface to the algorithm."
+        ]
+      },
+      {
+        "name": "VentureLab",
+        "position": "Young entrepreneur",
+        "url": "https://www.venturelab.be/",
+        "startDate": "2018-03-01",
+        "endDate": "2018-08-31",
+        "summary": "After winning the first place at the WSL StarTech contest, I had the opportunity to explore the feasability and financial relevance of an urban farming company called Agrobox. Following a market study and a number of meetings with various industry players, potential customers and local representatives, I cancelled the project to focus on my Ph.D. thesis.",
+        "highlights": []
+      },
+      {
+        "name": "GIGA CRC In-Vivo Imaging",
+        "position": "R&D engineer (Ph.D. student)",
+        "url": "https://www.gigacrc.uliege.be/cms/c_4212477/en/gigacrc",
+        "startDate": "2018-10-01",
+        "endDate": "2012-09-31",
+        "summary": "As a R&D engineer in a neuroscience research facility, I worked on various neuroimaging data analysis projects involving big data and high performance computing (HPC). I built several pipelines and lead the development of an electrical simulation Python package dedicated to sensitivity analysis called Shamo.",
+        "highlights": [
+          "Develop state-of-the-art reproducible neuroimaging data analysis pipeline using Nextflow, Singularity and DataLad.",
+          "Develop an automated MRI to 3D mesh pipeline in Python.",
+          "Simulate electric current in complex geometries using Gmsh and Python.",
+          "Perform sensitivity analysis of computationaly intensive simulations using gaussian processes in Python.",
+          "Process and analyse big data on high performance computing infrastructure based on Slurm.",
+          "Develop and document a sensitivity analysis Python package for computationaly intensive simulations called Shamo."
+        ]
+      },
+      {
+        "name": "HELMo Gramme",
+        "position": "Lecturer",
+        "url": "https://www.helmo.be/campus/helmo-campus-de-lourthe/institut-gramme",
+        "startDate": "2020-12-01",
+        "endDate": "2023-07-31",
+        "summary": "As a lecturer in an engineering institute, I have taught system programming (C), control theory and an introduction to electricity. I also participated in optimization (metaheuristics), web development and multidisciplinary projects as a programming consultant.",
+        "highlights": [
+          "Teach system programming in C.",
+          "Teach control theory using simulation based experiments implemented in Python.",
+          "Teach the basics of electricity.",
+          "Help to develop evolutionary optimization algorithms for various fields of application using Python, Matlab and C++.",
+          "Help to develop web services using Python and Flask.",
+          "Lead discussions about the programming requirements for future engineers.",
+          "Taking part in an industrial project as a machine learning consultant."
+        ]
+      },
+      {
+        "name": "GIGA Bioinformatics",
+        "position": "Data scientist - Research data manager",
+        "url": "https://www.gigabioinformatics.uliege.be/cms/c_8464757/en/gigabioinformatics",
+        "startDate": "2023-08-01",
+        "endDate": "today",
+        "summary": "As a research data manager, I was involved in the management of the on-premise scientific computing infrastructure composed of a 14PB storage system and Slurm based cluster for a life science research laboratory. Being located in the bioinformatics team, I also developed numerous bioinformatics pipeline, pushing further the portability and reproducibility of genomics analyses, and built several tools to improves the processes of the platform.",
+        "highlights": [
+          "Help manage a 14PB Quantum storage system used by several hundreds of researchers and provide trainings and documentation.",
+          "Help manage a Slurm based heterogenous cluster used by several dozens of researchers and provide trainings and documentation.",
+          "Develop monitoring and management tools (Python and Golang) for a 14PB Quantum on-premise storage system and make them available using Docker, Docker Compose and Traefik.",
+          "Develop state-of-the-art reproducible bioinformatics data analysis pipeline using Nextflow and Singularity.",
+          "Build Gitlab CI pipelines to build, test and publish bioinformatics containers and pipelines.",
+          "Lead the development of custom bioinformatics data analysis pipelines for industrial and academic clients.",
+          "Streamline the routine work of the Bioinformatics platform using automations, GitLab and custom tools."
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Shamo",
+      "startDate": "2018-10-01",
+      "endDate": "2012-09-31",
+      "description": "Constructing accurate subject specific head model is of main interest in the fields of source imaging (EEG/MEG) and brain stimulation (tDCS/tMS). Shamo is an open source python package to calculate EEG leadfields, current flows, and electric potential distribution in the head. From a labelled 3D image of the head, the whole process is fully automatized, relying only on a few parameter files, e.g. conductivities (including white matter anisotropy) plus source and electrode locations. Since there is no non-invasive method to measure the electromagnetic (EM) properties of the head tissues, Shamo can also be used to assess the sensitivity of the EM head model to these parameters.",
+      "highlights": [
+        "Automated 3D mesh generation from MRI data.",
+        "Electric simulation of complex geometries with Gmsh, Python.",
+        "Sensitivity analysis of computationlaly intensive simulations using gaussian processes."
+      ],
+      "url": "https://cyclotronresearchcentre.github.io/Shamo/index.html"
+    },
+    {
+      "name": "Neurodesk",
+      "startDate": "2018-10-01",
+      "endDate": "2012-09-31",
+      "description": "Neurodesk provides a containerized data analysis environment to facilitate reproducible analysis of neuroimaging data. Analysis pipelines for neuroimaging data typically rely on specific versions of packages and software, and are dependent on their native operating system. These dependencies mean that a working analysis pipeline may fail or produce different results on a new computer, or even on the same computer after a software update. Neurodesk provides a platform in which anyone, anywhere, using any computer can reproduce your original research findings given the original data and analysis code.",
+      "highlights": [
+        "Containerized reproducible analysis environment for neuroscience.",
+        "User-friendly lightweight portable computation environment for neuroscience."
+      ],
+      "url": "https://www.neurodesk.org/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Docker Compose",
+        "Singularity",
+        "Dev containers"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C",
+        "Golang",
+        "Bash",
+        "Groovy",
+        "Nextflow"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keyworks": [
+        "Flask",
+        "FastAPI",
+        "Starlite"
+      ]
+    },
+    {
+      "name": "Version control",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Github",
+        "GitLab"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": [
+        "SQLite",
+        "PostgreSQL",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Continuous integration and deployment",
+      "level": "",
+      "keywords": [
+        "GitLab CI",
+        "Pre-commit"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Woodworking",
+      "keywords": [
+        "Furniture building"
+      ]
+    },
+    {
+      "name": "Sport",
+      "keywords": [
+        "Running",
+        "Freeletics"
+      ]
+    }
+  ]
+}
